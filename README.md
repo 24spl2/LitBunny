@@ -1,5 +1,5 @@
 # LitBunny
-LitBunny~figuratively and literally~
+LitBunny  'figuratively and literally'
 
 This was a lab in 371 Computer Graphics with Prof. Jim Bern
 
