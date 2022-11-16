@@ -17,3 +17,5 @@ Specular lighting is more complicated, since you have to take in account the vie
 Together a really cool effect is made! Reproducing historical code is a very fascinating way to be in the footseps of famous coders!
 
 Here is what is looks like: https://drive.google.com/file/d/1-vLDLPXv_Jyb6CxPga-lg4sFHf4GHjCB/view?usp=sharing
+
+//Snail and Cow.cpp are from class 371 with Jim Bern at Williams College
